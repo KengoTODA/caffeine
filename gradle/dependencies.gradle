@@ -88,7 +88,7 @@ ext {
     semanticVersioning: '1.1.0',
     shadow: '2.0.1',
     sonarqube: '2.5',
-    spotbugs: '1.2',
+    spotbugs: '1.4',
     stats: '0.2.0',
     versions: '0.15.0',
   ]
